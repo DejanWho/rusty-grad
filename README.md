@@ -3,6 +3,11 @@
 ## Introduction
 Welcome to "rusty-grad", a personal project created to explore the fascinating intersection of Rust programming and Machine Learning (ML). This project is designed as a learning pathway for diving deep into the nuances of Rust language and the practical applications of ML.
 
+[![MIT licensed][mit-badge]][mit-url]
+
+[mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg
+[mit-url]: LICENSE
+
 ## Project Objective
 The primary goal of "rusty-grad" is to serve as a learning platform. Through this project, I aim to:
 - Gain a comprehensive understanding of Rust, a language known for its performance and safety.
