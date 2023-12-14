@@ -24,7 +24,7 @@ impl IntoTensor<f64> for f64 {
     fn into_tensor(self) -> Tensor<f64> {
         Tensor {
             data: self,
-            shape: vec![1]
+            shape: vec![]
         }
     }
 }
