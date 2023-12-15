@@ -13,7 +13,7 @@ use crate::{Tensor, IntoTensor};
 ///
 /// let scalar = 2.0;
 /// let tensor = scalar.into_tensor();
-/// assert_eq!(tensor.shape(), vec![1]);
+/// assert_eq!(tensor.shape(), vec![]);
 /// ```
 impl IntoTensor<f64> for f64 {
     /// Converts the `f64` value into a `Tensor<f64>`.
